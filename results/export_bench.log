@@ -1,0 +1,24 @@
+/workspace/venv/lib/python3.13/site-packages/torch/onnx/_internal/torchscript_exporter/symbolic_opset9.py:4604: UserWarning: Exporting a model to ONNX with a batch_size other than 1, with a variable length with GRU can cause an error when running the ONNX model with a different batch size. Make sure to save the model with a batch size of 1, or define the initial states (h0/c0) as inputs of the model. 
+  return _generic_rnn(
+/workspace/voice-protection-model/src/vpm/generator.py:78: TracerWarning: Converting a tensor to a Python boolean might cause the trace to be incorrect. We can't record the data flow of Python values, so this value will be treated as a constant in the future. This means that the trace might not generalize to other inputs!
+  assert N % H == 0, "length must be a multiple of 160"
+/workspace/venv/lib/python3.13/site-packages/torch/onnx/_internal/torchscript_exporter/jit_utils.py:308: UserWarning: Constant folding - Only steps=1 can be constant folded for opset >= 10 onnx::Slice op. Constant folding not applied. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/jit/passes/onnx/constant_fold.cpp:178.)
+  _C._jit_pass_onnx_node_shape_type_inference(node, params_dict, opset_version)
+/workspace/venv/lib/python3.13/site-packages/torch/onnx/_internal/torchscript_exporter/utils.py:712: UserWarning: Constant folding - Only steps=1 can be constant folded for opset >= 10 onnx::Slice op. Constant folding not applied. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/jit/passes/onnx/constant_fold.cpp:178.)
+  _C._jit_pass_onnx_graph_shape_type_inference(
+/workspace/venv/lib/python3.13/site-packages/torch/onnx/_internal/torchscript_exporter/utils.py:1185: UserWarning: Constant folding - Only steps=1 can be constant folded for opset >= 10 onnx::Slice op. Constant folding not applied. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/jit/passes/onnx/constant_fold.cpp:178.)
+  _C._jit_pass_onnx_graph_shape_type_inference(
+[0;93m2026-10-26 11:42:09.693093961 [W:onnxruntime:, inference_session.cc:3240 operator()] Serializing optimized model with Graph Optimization level greater than ORT_ENABLE_EXTENDED and the NchwcTransformer enabled. The generated model may contain hardware specific optimizations, and should only be used in the same environment the model was optimized in.[m
+                                 model      size_kb  max_abs_err_vs_torch    rel_l2_err  within_1e3_tol
+0                                 fp32  1844.650391          5.587935e-09  1.819694e-07            True
+1                   fp32_ort_optimized  1833.703125          5.587935e-09  1.819694e-07            True
+2          int8_dynamic_naive(all ops)   737.379883          1.272224e-02  2.566730e-01           False
+3                         int8_dynamic  1248.977539          4.433698e-04  8.183884e-03            True
+4                      int8_static_qdq  1451.449219          6.979800e-04  1.251553e-02            True
+5  offline_fp32 (full-utterance graph)  1863.525391          4.773028e-09  1.911392e-07            True
+                model      size_kb    p50_ms    p99_ms   mean_ms       rtf  params  algorithmic_latency_ms  e2e_ms_excl_buffers(alg+p99)
+0       pytorch_eager  1193.177734  1.982437  5.763258  2.041036  0.204104  286144                      20                     25.763258
+1                fp32  1844.650391  0.424104  0.488770  0.424485  0.042448  286144                      20                     20.488770
+2  fp32_ort_optimized  1833.703125  0.413885  0.473750  0.414840  0.041484  286144                      20                     20.473750
+3        int8_dynamic  1248.977539  0.611808  1.288722  0.641820  0.064182  286144                      20                     21.288722
+4     int8_static_qdq  1451.449219  0.544016  0.655632  0.545908  0.054591  286144                      20                     20.655632

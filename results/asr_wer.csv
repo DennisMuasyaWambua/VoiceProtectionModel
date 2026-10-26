@@ -1,0 +1,481 @@
+utt,speaker,protection,channel,wer,cer,hyp
+1089-134686-0004,ls1089,B0_unprotected,direct,0.09090909090909091,0.06779661016949153," Number 10. Fresh Nelly is waiting on you. Good night, husband."
+1089-134686-0004,ls1089,B0_unprotected,g711_mulaw_8k,0.09090909090909091,0.06779661016949153," Number 10, fresh Nelly is waiting on you. Good night, husband."
+1089-134686-0004,ls1089,B6_GM_KE,direct,0.09090909090909091,0.06779661016949153," Number 10. Fresh Nelly is waiting on you. Good night, husband."
+1089-134686-0004,ls1089,B6_GM_KE,g711_mulaw_8k,0.09090909090909091,0.06779661016949153," Number 10. Fresh Nelly is waiting on you. Good night, husband."
+1089-134686-0004,ls1089,B6_GM_KE_INT8(ORT),direct,0.09090909090909091,0.06779661016949153," Number 10. Fresh Nelly is waiting on you. Good night, husband."
+1089-134686-0004,ls1089,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.09090909090909091,0.06779661016949153," Number 10. Fresh Nelly is waiting on you. Good night, husband."
+1089-134686-0008,ls1089,B0_unprotected,direct,0.06666666666666667,0.03225806451612903," The chaos in which his order extinguished itself was a cold, indifferent knowledge of himself."
+1089-134686-0008,ls1089,B0_unprotected,g711_mulaw_8k,0.06666666666666667,0.03225806451612903," The chaos in which his order extinguished itself was a cold, indifferent knowledge of himself."
+1089-134686-0008,ls1089,B6_GM_KE,direct,0.06666666666666667,0.03225806451612903," The chaos in which his order extinguished itself was a cold, indifferent knowledge of himself."
+1089-134686-0008,ls1089,B6_GM_KE,g711_mulaw_8k,0.06666666666666667,0.03225806451612903," The chaos in which his order extinguished itself was a cold, indifferent knowledge of himself."
+1089-134686-0008,ls1089,B6_GM_KE_INT8(ORT),direct,0.06666666666666667,0.03225806451612903," The chaos in which his order extinguished itself was a cold, indifferent knowledge of himself."
+1089-134686-0008,ls1089,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.06666666666666667,0.03225806451612903," The chaos in which his order extinguished itself was a cold, indifferent knowledge of himself."
+1188-133604-0031,ls1188,B0_unprotected,direct,0.0,0.0," There's one and there's another, the Dudley and the Flint."
+1188-133604-0031,ls1188,B0_unprotected,g711_mulaw_8k,0.0,0.0," There's one and there's another, the Dudley and the Flint."
+1188-133604-0031,ls1188,B6_GM_KE,direct,0.0,0.0," There's one and there's another, the Dudley and the Flint."
+1188-133604-0031,ls1188,B6_GM_KE,g711_mulaw_8k,0.0,0.0," There's one and there's another, the Dudley and the Flint."
+1188-133604-0031,ls1188,B6_GM_KE_INT8(ORT),direct,0.0,0.0," There's one and there's another, the Dudley and the Flint."
+1188-133604-0031,ls1188,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," There's one and there's another, the Dudley and the Flint."
+1188-133604-0041,ls1188,B0_unprotected,direct,0.14814814814814814,0.03759398496240601," It is a greener bringing down her one's sheaf of corn to an old water mill, itself mossy and rent, scarcely able to get its stones to turn."
+1188-133604-0041,ls1188,B0_unprotected,g711_mulaw_8k,0.14814814814814814,0.03759398496240601," It is a greener bringing down her one's sheaf of corn to an old water mill, itself mossy and rent, scarcely able to get its stones to turn."
+1188-133604-0041,ls1188,B6_GM_KE,direct,0.14814814814814814,0.03759398496240601," It is a greener bringing down her one's sheaf of corn to an old water mill, itself mossy and rent, scarcely able to get its stones to turn."
+1188-133604-0041,ls1188,B6_GM_KE,g711_mulaw_8k,0.14814814814814814,0.06766917293233082," It is a greener bringing down her one's sheath of corn to an old watermelon, itself mossy and rent, scarcely able to get its stones to turn."
+1188-133604-0041,ls1188,B6_GM_KE_INT8(ORT),direct,0.14814814814814814,0.03759398496240601," It is a greener bringing down her one's sheaf of corn to an old water mill, itself mossy and rent, scarcely able to get its stones to turn."
+1188-133604-0041,ls1188,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.14814814814814814,0.06766917293233082," It is a greener bringing down her one's sheath of corn to an old watermelon, itself mossy and rent, scarcely able to get its stones to turn."
+121-127105-0003,ls121,B0_unprotected,direct,0.16666666666666666,0.0891089108910891," But there was a unanimous groan at this, and much for approach, after which in his preoccupied way he explained,"
+121-127105-0003,ls121,B0_unprotected,g711_mulaw_8k,0.2222222222222222,0.13861386138613863," But there was a unanimous groan at birth, and much for approach. After which, in his preoccupied way, he explained,"
+121-127105-0003,ls121,B6_GM_KE,direct,0.16666666666666666,0.0891089108910891," But there was a unanimous groan at this, and much for approach, after which in his preoccupied way he explained"
+121-127105-0003,ls121,B6_GM_KE,g711_mulaw_8k,0.16666666666666666,0.09900990099009901," there was a unanimous groan at birth, and much for approach. After which, in his preoccupied way, he explained"
+121-127105-0003,ls121,B6_GM_KE_INT8(ORT),direct,0.16666666666666666,0.0891089108910891," But there was a unanimous groan at this, and much for approach, after which in his preoccupied way he explained"
+121-127105-0003,ls121,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.16666666666666666,0.09900990099009901," there was a unanimous groan at birth, and much for approach. After which, in his preoccupied way, he explained"
+121-127105-0005,ls121,B0_unprotected,direct,0.0,0.0, I could write to my man and enclose the key. He could send down the packet as he finds it.
+121-127105-0005,ls121,B0_unprotected,g711_mulaw_8k,0.15,0.056818181818181816, I could write to my man and then close the key. He could send down the packet if he finds it.
+121-127105-0005,ls121,B6_GM_KE,direct,0.0,0.0, I could write to my man and enclose the key. He could send down the packet as he finds it.
+121-127105-0005,ls121,B6_GM_KE,g711_mulaw_8k,0.3,0.125, I could write to my man and then close the key. He could send down the packet of refinders.
+121-127105-0005,ls121,B6_GM_KE_INT8(ORT),direct,0.0,0.0, I could write to my man and enclose the key. He could send down the packet as he finds it.
+121-127105-0005,ls121,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.3,0.125, I could write to my man and then close the key. He could send down the packet of refinders.
+1221-135766-0007,ls1221,B0_unprotected,direct,0.047619047619047616,0.01694915254237288," Hester Prynne nevertheless, the loving mother of this one child, ran little risk of airing on the side of undue severity."
+1221-135766-0007,ls1221,B0_unprotected,g711_mulaw_8k,0.047619047619047616,0.01694915254237288," Hester Prynne nevertheless, the loving mother of this one child, ran little risk of airing on the side of undue severity."
+1221-135766-0007,ls1221,B6_GM_KE,direct,0.047619047619047616,0.01694915254237288," Hester Prynne nevertheless, the loving mother of this one child, ran little risk of airing on the side of undue severity."
+1221-135766-0007,ls1221,B6_GM_KE,g711_mulaw_8k,0.047619047619047616,0.01694915254237288," Hester Prynne nevertheless, the loving mother of this one child, ran little risk of airing on the side of undue severity."
+1221-135766-0007,ls1221,B6_GM_KE_INT8(ORT),direct,0.047619047619047616,0.01694915254237288," Hester Prynne nevertheless, the loving mother of this one child, ran little risk of airing on the side of undue severity."
+1221-135766-0007,ls1221,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.047619047619047616,0.01694915254237288," Hester Prynne nevertheless, the loving mother of this one child, ran little risk of airing on the side of undue severity."
+1221-135767-0014,ls1221,B0_unprotected,direct,0.1,0.029411764705882353," Yay, his honorable worship is within, but he hath a godly minister or two with him, and likewise a leech."
+1221-135767-0014,ls1221,B0_unprotected,g711_mulaw_8k,0.1,0.029411764705882353," Yay, his honorable worship is within, but he hath a godly minister or two with him, and likewise, a leech."
+1221-135767-0014,ls1221,B6_GM_KE,direct,0.1,0.029411764705882353," Yay, his honorable worship is within, but he hath a godly minister or two with him, and likewise, a leech."
+1221-135767-0014,ls1221,B6_GM_KE,g711_mulaw_8k,0.1,0.029411764705882353," Yay, his honorable worship is within, but he hath a godly minister or two with him, and likewise, a leech."
+1221-135767-0014,ls1221,B6_GM_KE_INT8(ORT),direct,0.1,0.029411764705882353," Yay, his honorable worship is within, but he hath a godly minister or two with him, and likewise, a leech."
+1221-135767-0014,ls1221,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.1,0.029411764705882353," Yay, his honorable worship is within, but he hath a godly minister or two with him, and likewise, a leech."
+1284-1180-0031,ls1284,B0_unprotected,direct,0.07142857142857142,0.039473684210526314," At the Emerald City, where our princess Osmer lives, green is the popular color."
+1284-1180-0031,ls1284,B0_unprotected,g711_mulaw_8k,0.14285714285714285,0.039473684210526314," At the Emerald City, where our Princess Osmolives, green is the popular color."
+1284-1180-0031,ls1284,B6_GM_KE,direct,0.07142857142857142,0.02631578947368421," At the Emerald City, where our Princess Osmo lives, green is the popular color."
+1284-1180-0031,ls1284,B6_GM_KE,g711_mulaw_8k,0.14285714285714285,0.07894736842105263," At the Emerald City, where our Princess Osmol is, green is the popular color."
+1284-1180-0031,ls1284,B6_GM_KE_INT8(ORT),direct,0.07142857142857142,0.02631578947368421," At the Emerald City, where our Princess Osmo lives, green is the popular color."
+1284-1180-0031,ls1284,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.14285714285714285,0.07894736842105263," At the Emerald City, where our Princess Osmol is, green is the popular color."
+1284-1181-0014,ls1284,B0_unprotected,direct,0.0,0.0, He selected a small gold bottle with a pepper box top so that the powder might be sprinkled on any object through the small holes.
+1284-1181-0014,ls1284,B0_unprotected,g711_mulaw_8k,0.04,0.007751937984496124, He selected a small gold bottle with a pepper box top so that the powder might be sprinkled on any object through the small hole.
+1284-1181-0014,ls1284,B6_GM_KE,direct,0.0,0.0, He selected a small gold bottle with a pepper box top so that the powder might be sprinkled on any object through the small holes.
+1284-1181-0014,ls1284,B6_GM_KE,g711_mulaw_8k,0.04,0.007751937984496124, He selected a small gold bottle with a pepper box top so that the powder might be sprinkled on any object through the small hole.
+1284-1181-0014,ls1284,B6_GM_KE_INT8(ORT),direct,0.0,0.0, He selected a small gold bottle with a pepper box top so that the powder might be sprinkled on any object through the small holes.
+1284-1181-0014,ls1284,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.04,0.007751937984496124, He selected a small gold bottle with a pepper box top so that the powder might be sprinkled on any object through the small hole.
+1320-122617-0018,ls1320,B0_unprotected,direct,0.034482758620689655,0.006622516556291391," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a fire which had been used for the purpose of cookery."
+1320-122617-0018,ls1320,B0_unprotected,g711_mulaw_8k,0.034482758620689655,0.006622516556291391," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a fire which had been used for the purpose of cookery."
+1320-122617-0018,ls1320,B6_GM_KE,direct,0.034482758620689655,0.006622516556291391," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a fire which had been used for the purpose of cookery."
+1320-122617-0018,ls1320,B6_GM_KE,g711_mulaw_8k,0.034482758620689655,0.006622516556291391," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a fire which had been used for the purpose of cookery."
+1320-122617-0018,ls1320,B6_GM_KE_INT8(ORT),direct,0.034482758620689655,0.006622516556291391," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a fire which had been used for the purpose of cookery."
+1320-122617-0018,ls1320,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.034482758620689655,0.006622516556291391," It was silent and gloomy, being tenanted solely by the captive and lighted by the dying embers of a fire which had been used for the purpose of cookery."
+1320-122617-0031,ls1320,B0_unprotected,direct,0.0,0.0," Bravely and generously has he battled in my behalf, and this and more will I dare in his service."
+1320-122617-0031,ls1320,B0_unprotected,g711_mulaw_8k,0.05263157894736842,0.010526315789473684," bravely and generously as he battled in my behalf, and this and more will I dare in his service."
+1320-122617-0031,ls1320,B6_GM_KE,direct,0.05263157894736842,0.010526315789473684," bravely and generously as he battled in my behalf, and this and more will I dare in his service."
+1320-122617-0031,ls1320,B6_GM_KE,g711_mulaw_8k,0.05263157894736842,0.010526315789473684," bravely and generously as he battled in my behalf, and this and more will I dare in his service."
+1320-122617-0031,ls1320,B6_GM_KE_INT8(ORT),direct,0.05263157894736842,0.010526315789473684," bravely and generously as he battled in my behalf, and this and more will I dare in his service."
+1320-122617-0031,ls1320,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.05263157894736842,0.010526315789473684," bravely and generously as he battled in my behalf, and this and more will I dare in his service."
+1580-141084-0016,ls1580,B0_unprotected,direct,0.0,0.0," My friend did not appear to be depressed by his failure, but shrugged his shoulders in half humorous resignation."
+1580-141084-0016,ls1580,B0_unprotected,g711_mulaw_8k,0.0,0.0," My friend did not appear to be depressed by his failure, but shrugged his shoulders in half humorous resignation."
+1580-141084-0016,ls1580,B6_GM_KE,direct,0.0,0.0," My friend did not appear to be depressed by his failure, but shrugged his shoulders in half humorous resignation."
+1580-141084-0016,ls1580,B6_GM_KE,g711_mulaw_8k,0.05263157894736842,0.02702702702702703," My friend did not appear to be depressed by his failure, but shrugs his shoulders in half humorous resignation."
+1580-141084-0016,ls1580,B6_GM_KE_INT8(ORT),direct,0.0,0.0," My friend did not appear to be depressed by his failure, but shrugged his shoulders in half humorous resignation."
+1580-141084-0016,ls1580,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.05263157894736842,0.02702702702702703," My friend did not appear to be depressed by his failure, but shrugs his shoulders in half humorous resignation."
+1580-141084-0040,ls1580,B0_unprotected,direct,0.0,0.0," He returned, carrying his jumping shoes, which are provided as you are aware with several sharp spikes."
+1580-141084-0040,ls1580,B0_unprotected,g711_mulaw_8k,0.0,0.0," He returned carrying his jumping shoes, which are provided as you are aware, with several sharp spikes."
+1580-141084-0040,ls1580,B6_GM_KE,direct,0.0,0.0," He returned, carrying his jumping shoes, which are provided as you are aware, with several sharp spikes."
+1580-141084-0040,ls1580,B6_GM_KE,g711_mulaw_8k,0.0,0.0, he returned carrying his jumping shoes which are provided as you are aware with several sharp spikes.
+1580-141084-0040,ls1580,B6_GM_KE_INT8(ORT),direct,0.0,0.0," He returned, carrying his jumping shoes, which are provided as you are aware, with several sharp spikes."
+1580-141084-0040,ls1580,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, he returned carrying his jumping shoes which are provided as you are aware with several sharp spikes.
+1995-1826-0007,ls1995,B0_unprotected,direct,0.5,0.4444444444444444," find some creswells there. Big plantations, rated at $250,000."
+1995-1826-0007,ls1995,B0_unprotected,g711_mulaw_8k,0.5,0.45555555555555555," find some cruswells there. Big plantations. Rated at $250,000."
+1995-1826-0007,ls1995,B6_GM_KE,direct,0.5,0.4444444444444444," find some creswells there. Big plantations, rated at $250,000."
+1995-1826-0007,ls1995,B6_GM_KE,g711_mulaw_8k,0.5,0.45555555555555555," find some cruswells there. Big plantations. Rated at $250,000."
+1995-1826-0007,ls1995,B6_GM_KE_INT8(ORT),direct,0.5,0.4444444444444444," find some creswells there. Big plantations, rated at $250,000."
+1995-1826-0007,ls1995,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.5,0.45555555555555555," find some cruswells there. Big plantations. Rated at $250,000."
+1995-1837-0004,ls1995,B0_unprotected,direct,0.0,0.0, He panted to know if she too knew or knew and cared not or cared and knew not
+1995-1837-0004,ls1995,B0_unprotected,g711_mulaw_8k,0.05555555555555555,0.05194805194805195, He depended to know if she too knew or knew and cared not or cared and knew not
+1995-1837-0004,ls1995,B6_GM_KE,direct,0.0,0.0, He panted to know if she too knew or knew and cared not or cared and knew not
+1995-1837-0004,ls1995,B6_GM_KE,g711_mulaw_8k,0.05555555555555555,0.05194805194805195, He depended to know if she too knew or knew and cared not or cared and knew not.
+1995-1837-0004,ls1995,B6_GM_KE_INT8(ORT),direct,0.0,0.0, He panted to know if she too knew or knew and cared not or cared and knew not
+1995-1837-0004,ls1995,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.05555555555555555,0.05194805194805195, He depended to know if she too knew or knew and cared not or cared and knew not.
+2094-142345-0021,ls2094,B0_unprotected,direct,0.0,0.0," That's the way with you. That's the road you'd all like to go, headlongs to ruin."
+2094-142345-0021,ls2094,B0_unprotected,g711_mulaw_8k,0.0,0.0, That's the way with you. That's the road you'd all like to go. Headlongs to ruin.
+2094-142345-0021,ls2094,B6_GM_KE,direct,0.0,0.0," That's the way with you. That's the road you'd all like to go, headlongs to ruin."
+2094-142345-0021,ls2094,B6_GM_KE,g711_mulaw_8k,0.0,0.0," That's the way with you. That's the road you'd all like to go, headlongs to ruin."
+2094-142345-0021,ls2094,B6_GM_KE_INT8(ORT),direct,0.0,0.0," That's the way with you. That's the road you'd all like to go, headlongs to ruin."
+2094-142345-0021,ls2094,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," That's the way with you. That's the road you'd all like to go, headlongs to ruin."
+2094-142345-0043,ls2094,B0_unprotected,direct,0.0,0.0, By this time the two gentlemen had reached the palings and had got down from their horses. It was plain they meant to come in.
+2094-142345-0043,ls2094,B0_unprotected,g711_mulaw_8k,0.0,0.0, By this time the two gentlemen had reached the palings and had got down from their horses. It was plain they meant to come in.
+2094-142345-0043,ls2094,B6_GM_KE,direct,0.0,0.0," By this time, the two gentlemen had reached the palings and had got down from their horses. It was plain they meant to come in."
+2094-142345-0043,ls2094,B6_GM_KE,g711_mulaw_8k,0.0,0.0, By this time the two gentlemen had reached the palings and had got down from their horses. It was plain they meant to come in.
+2094-142345-0043,ls2094,B6_GM_KE_INT8(ORT),direct,0.0,0.0," By this time, the two gentlemen had reached the palings and had got down from their horses. It was plain they meant to come in."
+2094-142345-0043,ls2094,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, By this time the two gentlemen had reached the palings and had got down from their horses. It was plain they meant to come in.
+2300-131720-0005,ls2300,B0_unprotected,direct,0.0,0.0," Why, if we erect a station at the falls, it is a great economy to get it up to the city."
+2300-131720-0005,ls2300,B0_unprotected,g711_mulaw_8k,0.0,0.0," Why, if we erect a station at the falls, it is a great economy to get it up to the city."
+2300-131720-0005,ls2300,B6_GM_KE,direct,0.0,0.0," Why, if we erect a station at the falls, it is a great economy to get it up to the city."
+2300-131720-0005,ls2300,B6_GM_KE,g711_mulaw_8k,0.0,0.0," Why, if we erect a station at the falls, it is a great economy to get it up to the city."
+2300-131720-0005,ls2300,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Why, if we erect a station at the falls, it is a great economy to get it up to the city."
+2300-131720-0005,ls2300,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," Why, if we erect a station at the falls, it is a great economy to get it up to the city."
+2300-131720-0021,ls2300,B0_unprotected,direct,0.0,0.0," The street conductors were of the overhead pole line construction, and were installed by the construction company that had been organized by Edison to build and equip central stations."
+2300-131720-0021,ls2300,B0_unprotected,g711_mulaw_8k,0.034482758620689655,0.016483516483516484," The street conductors were of the overhead full-line construction, and were installed by the construction company that had been organized by Edison to build and equip central stations."
+2300-131720-0021,ls2300,B6_GM_KE,direct,0.034482758620689655,0.016483516483516484," The street conductors were of the overhead full-line construction, and were installed by the construction company that had been organized by Edison to build and equip central stations."
+2300-131720-0021,ls2300,B6_GM_KE,g711_mulaw_8k,0.06896551724137931,0.03296703296703297," The state conductors were of the overhead full-line construction, and were installed by the construction company that had been organized by Edison to build and equip central stations."
+2300-131720-0021,ls2300,B6_GM_KE_INT8(ORT),direct,0.034482758620689655,0.016483516483516484," The street conductors were of the overhead full-line construction, and were installed by the construction company that had been organized by Edison to build and equip central stations."
+2300-131720-0021,ls2300,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.06896551724137931,0.03296703296703297," The state conductors were of the overhead full-line construction, and were installed by the construction company that had been organized by Edison to build and equip central stations."
+237-126133-0019,ls237,B0_unprotected,direct,0.0,0.0," Dear me, ejaculated the old gentleman in the utmost amazement, and such a time as I've had to get her here too."
+237-126133-0019,ls237,B0_unprotected,g711_mulaw_8k,0.0,0.0," Dear me, ejaculated the old gentleman in the utmost amazement, and such a time as I've had to get her here too."
+237-126133-0019,ls237,B6_GM_KE,direct,0.09090909090909091,0.027777777777777776," Dear me, ejaculate at the old gentleman in the utmost amazement, and such a time as I've had to get her here too."
+237-126133-0019,ls237,B6_GM_KE,g711_mulaw_8k,0.0,0.0," Dear me, ejaculated the old gentleman in the utmost amazement, and such a time as I've had to get her here too."
+237-126133-0019,ls237,B6_GM_KE_INT8(ORT),direct,0.09090909090909091,0.027777777777777776," Dear me, ejaculate at the old gentleman in the utmost amazement, and such a time as I've had to get her here too."
+237-126133-0019,ls237,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," Dear me, ejaculated the old gentleman in the utmost amazement, and such a time as I've had to get her here too."
+237-134493-0016,ls237,B0_unprotected,direct,0.06666666666666667,0.01910828025477707," On either side of the road, for a mile before you reached the foot of the hill, stood tall Osage orange hedges, the glossy green marking off the yellow field."
+237-134493-0016,ls237,B0_unprotected,g711_mulaw_8k,0.0,0.0," On either side of the road, for a mile before you reached the foot of the hill, stood tall Osage orange hedges, their glossy green marking off the yellow fields."
+237-134493-0016,ls237,B6_GM_KE,direct,0.03333333333333333,0.006369426751592357," On either side of the road, for a mile before you reached the foot of the hill, stood tall Osage orange hedges, their glossy green marking off the yellow field."
+237-134493-0016,ls237,B6_GM_KE,g711_mulaw_8k,0.06666666666666667,0.025477707006369428," On either side of the road, for a mile before you reached the foot of the hill, Stutt-tall Osage orange hedges, their glossy green marking off the yellow field."
+237-134493-0016,ls237,B6_GM_KE_INT8(ORT),direct,0.03333333333333333,0.006369426751592357," On either side of the road, for a mile before you reached the foot of the hill, stood tall Osage orange hedges, their glossy green marking off the yellow field."
+237-134493-0016,ls237,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.06666666666666667,0.025477707006369428," On either side of the road, for a mile before you reached the foot of the hill, Stutt-tall Osage orange hedges, their glossy green marking off the yellow field."
+260-123286-0026,ls260,B0_unprotected,direct,0.0,0.0, Two monsters only were creating all this commotion and before my eyes are two reptiles of the primitive world.
+260-123286-0026,ls260,B0_unprotected,g711_mulaw_8k,0.0,0.0, Two monsters only were creating all this commotion and before my eyes are two reptiles of the primitive world.
+260-123286-0026,ls260,B6_GM_KE,direct,0.0,0.0," Two monsters only were creating all this commotion, and before my eyes are two reptiles of the primitive world."
+260-123286-0026,ls260,B6_GM_KE,g711_mulaw_8k,0.0,0.0," Two monsters only were creating all this commotion, and before my eyes, are two reptiles of the primitive world."
+260-123286-0026,ls260,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Two monsters only were creating all this commotion, and before my eyes are two reptiles of the primitive world."
+260-123286-0026,ls260,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," Two monsters only were creating all this commotion, and before my eyes, are two reptiles of the primitive world."
+260-123288-0008,ls260,B0_unprotected,direct,0.0,0.0," There's a heavy storm coming on. I cried, pointing towards the horizon."
+260-123288-0008,ls260,B0_unprotected,g711_mulaw_8k,0.0,0.0," There's a heavy storm coming on. I cried, pointing towards the horizon."
+260-123288-0008,ls260,B6_GM_KE,direct,0.0,0.0," There's a heavy storm coming on!"" I cried, pointing towards the horizon."
+260-123288-0008,ls260,B6_GM_KE,g711_mulaw_8k,0.0,0.0," There's a heavy storm coming on. I cried, pointing towards the horizon."
+260-123288-0008,ls260,B6_GM_KE_INT8(ORT),direct,0.0,0.0," There's a heavy storm coming on!"" I cried, pointing towards the horizon."
+260-123288-0008,ls260,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," There's a heavy storm coming on. I cried, pointing towards the horizon."
+2830-3980-0055,ls2830,B0_unprotected,direct,0.0,0.0," To bestow peace and grace lies in the province of God, who alone can create these blessings. The angels cannot."
+2830-3980-0055,ls2830,B0_unprotected,g711_mulaw_8k,0.0,0.0," To bestow peace and grace lies in the province of God, who alone can create these blessings. The angels cannot."
+2830-3980-0055,ls2830,B6_GM_KE,direct,0.0,0.0," To bestow peace and grace lies in the province of God, who alone can create these blessings. The angels cannot."
+2830-3980-0055,ls2830,B6_GM_KE,g711_mulaw_8k,0.0,0.0," To bestow peace and grace lies in the province of God, who alone can create these blessings. The angels cannot."
+2830-3980-0055,ls2830,B6_GM_KE_INT8(ORT),direct,0.0,0.0," To bestow peace and grace lies in the province of God, who alone can create these blessings. The angels cannot."
+2830-3980-0055,ls2830,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," To bestow peace and grace lies in the province of God, who alone can create these blessings. The angels cannot."
+2830-3980-0066,ls2830,B0_unprotected,direct,0.0,0.0," Since Christ was given for our sins, it stands to reason that they cannot be put away by our own efforts."
+2830-3980-0066,ls2830,B0_unprotected,g711_mulaw_8k,0.0,0.0," since Christ was given for our sins, it stands to reason that they cannot be put away by our own efforts."
+2830-3980-0066,ls2830,B6_GM_KE,direct,0.0,0.0," Since Christ was given for our sins, it stands to reason that they cannot be put away by our own efforts."
+2830-3980-0066,ls2830,B6_GM_KE,g711_mulaw_8k,0.0,0.0," Since Christ was given for our sins, it stands to reason that they cannot be put away by our own efforts."
+2830-3980-0066,ls2830,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Since Christ was given for our sins, it stands to reason that they cannot be put away by our own efforts."
+2830-3980-0066,ls2830,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," Since Christ was given for our sins, it stands to reason that they cannot be put away by our own efforts."
+2961-960-0005,ls2961,B0_unprotected,direct,0.0,0.0," In the present day, we are well aware that an ancient philosopher is to be interpreted from himself and by the contemporary history of thought."
+2961-960-0005,ls2961,B0_unprotected,g711_mulaw_8k,0.0,0.0," In the present day, we are well aware that an ancient philosopher is to be interpreted from himself and by the contemporary history of thought."
+2961-960-0005,ls2961,B6_GM_KE,direct,0.0,0.0," In the present day, we are well aware that an ancient philosopher is to be interpreted from himself and by the contemporary history of thought."
+2961-960-0005,ls2961,B6_GM_KE,g711_mulaw_8k,0.0,0.0," In the present day, we are well aware that an ancient philosopher is to be interpreted from himself and by the contemporary history of thought."
+2961-960-0005,ls2961,B6_GM_KE_INT8(ORT),direct,0.0,0.0," In the present day, we are well aware that an ancient philosopher is to be interpreted from himself and by the contemporary history of thought."
+2961-960-0005,ls2961,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," In the present day, we are well aware that an ancient philosopher is to be interpreted from himself and by the contemporary history of thought."
+2961-961-0018,ls2961,B0_unprotected,direct,0.0,0.0, The most famous of them all was the overthrow of the island of Atlantis.
+2961-961-0018,ls2961,B0_unprotected,g711_mulaw_8k,0.14285714285714285,0.09859154929577464, The most famous of them all was the overthrow of the island of the Clintus.
+2961-961-0018,ls2961,B6_GM_KE,direct,0.0,0.0, The most famous of them all was the overthrow of the island of Atlantis.
+2961-961-0018,ls2961,B6_GM_KE,g711_mulaw_8k,0.14285714285714285,0.08450704225352113, The most famous of them all was the overthrow of the island of the 20th.
+2961-961-0018,ls2961,B6_GM_KE_INT8(ORT),direct,0.0,0.0, The most famous of them all was the overthrow of the island of Atlantis.
+2961-961-0018,ls2961,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.14285714285714285,0.08450704225352113, The most famous of them all was the overthrow of the island of the 20th.
+3570-5694-0004,ls3570,B0_unprotected,direct,0.0,0.0," In the nature of things, luxuries and the comforts of life belong to the leisure class."
+3570-5694-0004,ls3570,B0_unprotected,g711_mulaw_8k,0.0,0.0," in the nature of things, luxuries and the comforts of life belong to the leisure class."
+3570-5694-0004,ls3570,B6_GM_KE,direct,0.0,0.0," in the nature of things, luxuries and the comforts of life belong to the leisure class."
+3570-5694-0004,ls3570,B6_GM_KE,g711_mulaw_8k,0.0,0.0," in the nature of things, luxuries and the comforts of life belong to the leisure class."
+3570-5694-0004,ls3570,B6_GM_KE_INT8(ORT),direct,0.0,0.0," in the nature of things, luxuries and the comforts of life belong to the leisure class."
+3570-5694-0004,ls3570,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," in the nature of things, luxuries and the comforts of life belong to the leisure class."
+3570-5696-0002,ls3570,B0_unprotected,direct,0.047619047619047616,0.007407407407407408, Other circumstances permitting that instinct disposes men to look with favour upon productive efficiency and on whatever is of human use.
+3570-5696-0002,ls3570,B0_unprotected,g711_mulaw_8k,0.0,0.0, Other circumstances permitting that instinct disposes men to look with favor upon productive efficiency and on whatever is of human use.
+3570-5696-0002,ls3570,B6_GM_KE,direct,0.19047619047619047,0.05185185185185185, Are the circumstances permitting that instinct desposes men to look with favour upon productive efficiency and on whatever is of human use?
+3570-5696-0002,ls3570,B6_GM_KE,g711_mulaw_8k,0.047619047619047616,0.022222222222222223, Other circumstances permitting that instinct disposes men to look with paper upon productive efficiency and on whatever is of human use.
+3570-5696-0002,ls3570,B6_GM_KE_INT8(ORT),direct,0.19047619047619047,0.05185185185185185, Are the circumstances permitting that instinct desposes men to look with favour upon productive efficiency and on whatever is of human use?
+3570-5696-0002,ls3570,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.047619047619047616,0.022222222222222223, Other circumstances permitting that instinct disposes men to look with paper upon productive efficiency and on whatever is of human use.
+3575-170457-0005,ls3575,B0_unprotected,direct,0.09523809523809523,0.02631578947368421," She, a Torian clergyman's daughter, was always in a minority of one in our house of violent dissent and radicalism."
+3575-170457-0005,ls3575,B0_unprotected,g711_mulaw_8k,0.0,0.0," She, a Tory and clergyman's daughter, was always in a minority of one in our house of violent dissent and radicalism."
+3575-170457-0005,ls3575,B6_GM_KE,direct,0.09523809523809523,0.02631578947368421," She, a Torian clergyman's daughter, was always in a minority of one in our house of violent dissent and radicalism."
+3575-170457-0005,ls3575,B6_GM_KE,g711_mulaw_8k,0.09523809523809523,0.02631578947368421," She, a Torian clergyman's daughter, was always in a minority of one in our house of violent dissent and radicalism."
+3575-170457-0005,ls3575,B6_GM_KE_INT8(ORT),direct,0.09523809523809523,0.02631578947368421," She, a Torian clergyman's daughter, was always in a minority of one in our house of violent dissent and radicalism."
+3575-170457-0005,ls3575,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.09523809523809523,0.02631578947368421," She, a Torian clergyman's daughter, was always in a minority of one in our house of violent dissent and radicalism."
+3575-170457-0035,ls3575,B0_unprotected,direct,0.07692307692307693,0.041379310344827586," I wish to over-recur again, but it will take two or three interviews before the stiffness, the estrangement of this long separation will wear away."
+3575-170457-0035,ls3575,B0_unprotected,g711_mulaw_8k,0.07692307692307693,0.04827586206896552," I wish to ever recur again, but it will take two or three interviews before the stiffness. The estrangement of this long separation will wear away."
+3575-170457-0035,ls3575,B6_GM_KE,direct,0.07692307692307693,0.041379310344827586," I wish to over-recur again, but it will take two or three interviews before the stiffness, the estrangement of this long separation will wear away."
+3575-170457-0035,ls3575,B6_GM_KE,g711_mulaw_8k,0.11538461538461539,0.06896551724137931," I will never recur again, but it will take two or three interviews before the stiffness. The estrangement of this long separation will wear away."
+3575-170457-0035,ls3575,B6_GM_KE_INT8(ORT),direct,0.07692307692307693,0.041379310344827586," I wish to over-recur again, but it will take two or three interviews before the stiffness, the estrangement of this long separation will wear away."
+3575-170457-0035,ls3575,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.11538461538461539,0.06896551724137931," I will never recur again, but it will take two or three interviews before the stiffness. The estrangement of this long separation will wear away."
+3729-6852-0011,ls3729,B0_unprotected,direct,0.0,0.0," I had a name I believe in my young days, but I have forgotten it since I have been in service."
+3729-6852-0011,ls3729,B0_unprotected,g711_mulaw_8k,0.0,0.0," I had a name I believe in my young days, but I have forgotten it since I have been in service."
+3729-6852-0011,ls3729,B6_GM_KE,direct,0.0,0.0," I had a name I believe in my young days, but I have forgotten it since I have been in service."
+3729-6852-0011,ls3729,B6_GM_KE,g711_mulaw_8k,0.0,0.0," I had a name I believe in my young days, but I have forgotten it since I have been in service."
+3729-6852-0011,ls3729,B6_GM_KE_INT8(ORT),direct,0.0,0.0," I had a name I believe in my young days, but I have forgotten it since I have been in service."
+3729-6852-0011,ls3729,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," I had a name I believe in my young days, but I have forgotten it since I have been in service."
+3729-6852-0024,ls3729,B0_unprotected,direct,0.0,0.0," I see a crowd in one corner of the garden, everybody standing still and looking up."
+3729-6852-0024,ls3729,B0_unprotected,g711_mulaw_8k,0.0,0.0," I see a crowd in one corner of the garden, everybody standing still and looking up."
+3729-6852-0024,ls3729,B6_GM_KE,direct,0.0,0.0," I see a crowd in one corner of the garden, everybody standing still and looking up."
+3729-6852-0024,ls3729,B6_GM_KE,g711_mulaw_8k,0.0625,0.024691358024691357, I see a crowd in one corner of the garden. Everybody's standing still and looking up.
+3729-6852-0024,ls3729,B6_GM_KE_INT8(ORT),direct,0.0,0.0," I see a crowd in one corner of the garden, everybody standing still and looking up."
+3729-6852-0024,ls3729,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0625,0.024691358024691357, I see a crowd in one corner of the garden. Everybody's standing still and looking up.
+4077-13751-0002,ls4077,B0_unprotected,direct,0.045454545454545456,0.014184397163120567," instead of but six regularly affiliated members, and at most two score of adherence. The organization numbers today many hundred thousand souls."
+4077-13751-0002,ls4077,B0_unprotected,g711_mulaw_8k,0.045454545454545456,0.014184397163120567," instead of but six regularly affiliated members, and at most, two score of adherence. The organization numbers today many hundred thousand souls."
+4077-13751-0002,ls4077,B6_GM_KE,direct,0.045454545454545456,0.014184397163120567," instead of but six regularly affiliated members, and at most, two score of adherence. The organization numbers today many hundred thousand souls."
+4077-13751-0002,ls4077,B6_GM_KE,g711_mulaw_8k,0.09090909090909091,0.02127659574468085," instead of but six regularly affiliated members, and at most, two score of adherence. The organization numbers today many hundreds thousand souls."
+4077-13751-0002,ls4077,B6_GM_KE_INT8(ORT),direct,0.045454545454545456,0.014184397163120567," instead of but six regularly affiliated members, and at most, two score of adherence. The organization numbers today many hundred thousand souls."
+4077-13751-0002,ls4077,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.09090909090909091,0.02127659574468085," instead of but six regularly affiliated members, and at most, two score of adherence. The organization numbers today many hundreds thousand souls."
+4077-13754-0004,ls4077,B0_unprotected,direct,0.1875,0.07246376811594203, Already in north and south we're talked of. Why not set up also a west?
+4077-13754-0004,ls4077,B0_unprotected,g711_mulaw_8k,0.25,0.11594202898550725, Already in north and south we're talking of. Why not set up also a west?
+4077-13754-0004,ls4077,B6_GM_KE,direct,0.125,0.057971014492753624, Already in north and south were talked of. Why not set up also a west?
+4077-13754-0004,ls4077,B6_GM_KE,g711_mulaw_8k,0.25,0.11594202898550725, already in north and south we're talking of. Why not set up also a west?
+4077-13754-0004,ls4077,B6_GM_KE_INT8(ORT),direct,0.125,0.057971014492753624, Already in north and south were talked of. Why not set up also a west?
+4077-13754-0004,ls4077,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.25,0.11594202898550725, already in north and south we're talking of. Why not set up also a west?
+4446-2275-0000,ls4446,B0_unprotected,direct,0.1,0.03361344537815126," The Stop at Queenstown, the tedious passage of The Mercy, were things that he noted dimly through his growing impatience."
+4446-2275-0000,ls4446,B0_unprotected,g711_mulaw_8k,0.1,0.03361344537815126," The Stop at Queenstown, the tedious passage of the mercy, were things that he noted dimly through his growing impatience."
+4446-2275-0000,ls4446,B6_GM_KE,direct,0.1,0.03361344537815126," The Stop at Queenstown, the tedious passage of The Mercy, were things that he noted dimly through his growing impatience."
+4446-2275-0000,ls4446,B6_GM_KE,g711_mulaw_8k,0.1,0.03361344537815126," The Stop at Queenstown, the tedious passage of the mercy, were things that he noted dimly through his growing impatience."
+4446-2275-0000,ls4446,B6_GM_KE_INT8(ORT),direct,0.1,0.03361344537815126," The Stop at Queenstown, the tedious passage of The Mercy, were things that he noted dimly through his growing impatience."
+4446-2275-0000,ls4446,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.1,0.03361344537815126," The Stop at Queenstown, the tedious passage of the mercy, were things that he noted dimly through his growing impatience."
+4446-2275-0019,ls4446,B0_unprotected,direct,0.10526315789473684,0.013333333333333334," The world is all there, just as it used to be, but I can't get at it anymore."
+4446-2275-0019,ls4446,B0_unprotected,g711_mulaw_8k,0.10526315789473684,0.013333333333333334," The world is all there, just as it used to be, but I can't get at it anymore."
+4446-2275-0019,ls4446,B6_GM_KE,direct,0.10526315789473684,0.013333333333333334," The world is all there, just as it used to be, but I can't get at it anymore."
+4446-2275-0019,ls4446,B6_GM_KE,g711_mulaw_8k,0.10526315789473684,0.013333333333333334," The world is all there, just as it used to be, but I can't get at it anymore."
+4446-2275-0019,ls4446,B6_GM_KE_INT8(ORT),direct,0.10526315789473684,0.013333333333333334," The world is all there, just as it used to be, but I can't get at it anymore."
+4446-2275-0019,ls4446,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.10526315789473684,0.013333333333333334," The world is all there, just as it used to be, but I can't get at it anymore."
+4507-16021-0036,ls4507,B0_unprotected,direct,0.0,0.0," facts form one of these, and ideas the other."
+4507-16021-0036,ls4507,B0_unprotected,g711_mulaw_8k,0.4444444444444444,0.16279069767441862," In fact, form one of these, and IT is the other."
+4507-16021-0036,ls4507,B6_GM_KE,direct,0.0,0.0," facts form one of these, and ideas the other."
+4507-16021-0036,ls4507,B6_GM_KE,g711_mulaw_8k,0.4444444444444444,0.16279069767441862," back to form one of these, and IT is the other."
+4507-16021-0036,ls4507,B6_GM_KE_INT8(ORT),direct,0.0,0.0," facts form one of these, and ideas the other."
+4507-16021-0036,ls4507,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.4444444444444444,0.16279069767441862," back to form one of these, and IT is the other."
+4507-16021-0037,ls4507,B0_unprotected,direct,0.0,0.0," There it clothes itself in word masks, in metaphor rags."
+4507-16021-0037,ls4507,B0_unprotected,g711_mulaw_8k,0.1,0.018518518518518517," There is clothes itself in word masks, in metaphor rags."
+4507-16021-0037,ls4507,B6_GM_KE,direct,0.1,0.05555555555555555," There it closed itself in word masks, in metaphor rags."
+4507-16021-0037,ls4507,B6_GM_KE,g711_mulaw_8k,0.1,0.018518518518518517," There is clothes itself in word masks, in metaphor rags."
+4507-16021-0037,ls4507,B6_GM_KE_INT8(ORT),direct,0.1,0.05555555555555555," There it closed itself in word masks, in metaphor rags."
+4507-16021-0037,ls4507,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.1,0.018518518518518517," There is clothes itself in word masks, in metaphor rags."
+4970-29095-0002,ls4970,B0_unprotected,direct,0.0,0.0," Well, mother, said the young student looking up with a shade of impatience."
+4970-29095-0002,ls4970,B0_unprotected,g711_mulaw_8k,0.0,0.0," Well, mother, said the young student looking up with a shade of impatience."
+4970-29095-0002,ls4970,B6_GM_KE,direct,0.0,0.0," Well, mother, said the young student looking up with a shade of impatience."
+4970-29095-0002,ls4970,B6_GM_KE,g711_mulaw_8k,0.0,0.0," Well, mother, said the young student looking up with a shade of impatience."
+4970-29095-0002,ls4970,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Well, mother, said the young student looking up with a shade of impatience."
+4970-29095-0002,ls4970,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," Well, mother, said the young student looking up with a shade of impatience."
+4970-29095-0037,ls4970,B0_unprotected,direct,0.0,0.0, But that wise and placid woman understood the sweet rebel a great deal better than Ruth understood herself.
+4970-29095-0037,ls4970,B0_unprotected,g711_mulaw_8k,0.0,0.0, But that wise and placid woman understood the sweet rebel a great deal better than Ruth understood herself.
+4970-29095-0037,ls4970,B6_GM_KE,direct,0.0,0.0, But that wise and placid woman understood the sweet rebel a great deal better than Ruth understood herself.
+4970-29095-0037,ls4970,B6_GM_KE,g711_mulaw_8k,0.0,0.0, But that wise and placid woman understood the sweet rebel a great deal better than Ruth understood herself.
+4970-29095-0037,ls4970,B6_GM_KE_INT8(ORT),direct,0.0,0.0, But that wise and placid woman understood the sweet rebel a great deal better than Ruth understood herself.
+4970-29095-0037,ls4970,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, But that wise and placid woman understood the sweet rebel a great deal better than Ruth understood herself.
+4992-41797-0002,ls4992,B0_unprotected,direct,0.25,0.03333333333333333," Grandfather was Alexander Carey, LLD, Doctor of Laws, that is."
+4992-41797-0002,ls4992,B0_unprotected,g711_mulaw_8k,0.25,0.03333333333333333," Grandfather was Alexander Carey, LLD, Doctor of Laws, that is."
+4992-41797-0002,ls4992,B6_GM_KE,direct,0.25,0.03333333333333333," Grandfather was Alexander Carey, LLD, Doctor of Laws, that is."
+4992-41797-0002,ls4992,B6_GM_KE,g711_mulaw_8k,0.3333333333333333,0.08333333333333333," Grandfather with Alexander Carey, LLD, Doctor of Laws, that is."
+4992-41797-0002,ls4992,B6_GM_KE_INT8(ORT),direct,0.25,0.03333333333333333," Grandfather was Alexander Carey, LLD, Doctor of Laws, that is."
+4992-41797-0002,ls4992,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.3333333333333333,0.08333333333333333," Grandfather with Alexander Carey, LLD, Doctor of Laws, that is."
+4992-41797-0018,ls4992,B0_unprotected,direct,0.09090909090909091,0.04065040650406504," There, in the cedar hollow then, lived all of Lord, an angry resentful little creature weighed down by a fierce sense of injury."
+4992-41797-0018,ls4992,B0_unprotected,g711_mulaw_8k,0.09090909090909091,0.04065040650406504," There, in the cedar hollow then, lived all of Lord, an angry resentful little creature, weighed down by a fierce sense of injury."
+4992-41797-0018,ls4992,B6_GM_KE,direct,0.09090909090909091,0.04065040650406504," There, in the cedar hollow then, lived all of Lord, an angry resentful little creature weighed down by a fierce sense of injury."
+4992-41797-0018,ls4992,B6_GM_KE,g711_mulaw_8k,0.09090909090909091,0.04065040650406504," There, in the cedar hollow then, lived all of Lord, an angry resentful little creature, weighed down by a fierce sense of injury."
+4992-41797-0018,ls4992,B6_GM_KE_INT8(ORT),direct,0.09090909090909091,0.04065040650406504," There, in the cedar hollow then, lived all of Lord, an angry resentful little creature weighed down by a fierce sense of injury."
+4992-41797-0018,ls4992,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.09090909090909091,0.04065040650406504," There, in the cedar hollow then, lived all of Lord, an angry resentful little creature, weighed down by a fierce sense of injury."
+5105-28233-0002,ls5105,B0_unprotected,direct,0.0,0.0," It must be owned, and no one was more ready to confess it than himself, that his literary attainments were by no means of a high order."
+5105-28233-0002,ls5105,B0_unprotected,g711_mulaw_8k,0.0,0.0," It must be owned, and no one was more ready to confess it than himself, that his literary attainments were by no means of a high order."
+5105-28233-0002,ls5105,B6_GM_KE,direct,0.0,0.0," It must be owned, and no one was more ready to confess it than himself, that his literary attainments were by no means of a high order."
+5105-28233-0002,ls5105,B6_GM_KE,g711_mulaw_8k,0.0,0.0," It must be owned, and no one was more ready to confess it than himself, that his literary attainments were by no means of a high order."
+5105-28233-0002,ls5105,B6_GM_KE_INT8(ORT),direct,0.0,0.0," It must be owned, and no one was more ready to confess it than himself, that his literary attainments were by no means of a high order."
+5105-28233-0002,ls5105,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," It must be owned, and no one was more ready to confess it than himself, that his literary attainments were by no means of a high order."
+5105-28240-0000,ls5105,B0_unprotected,direct,0.05555555555555555,0.024390243902439025," Fast as his legs could carry him, Servedak had made his way to the top of the cliff."
+5105-28240-0000,ls5105,B0_unprotected,g711_mulaw_8k,0.1111111111111111,0.04878048780487805," Fast as his legs could carry him, Sir Vidak had made his way to the top of the cliff."
+5105-28240-0000,ls5105,B6_GM_KE,direct,0.05555555555555555,0.024390243902439025," Fast as his legs could carry him, Servedak had made his way to the top of the cliff."
+5105-28240-0000,ls5105,B6_GM_KE,g711_mulaw_8k,0.1111111111111111,0.06097560975609756," As fast as his legs could carry him, Servedak had made his way to the top of the cliff."
+5105-28240-0000,ls5105,B6_GM_KE_INT8(ORT),direct,0.05555555555555555,0.024390243902439025," Fast as his legs could carry him, Servedak had made his way to the top of the cliff."
+5105-28240-0000,ls5105,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.1111111111111111,0.06097560975609756," As fast as his legs could carry him, Servedak had made his way to the top of the cliff."
+5142-33396-0042,ls5142,B0_unprotected,direct,0.043478260869565216,0.019230769230769232," So no tails got out to the neighbors. Besides, it was a lonely place, and by good luck, no one came that way."
+5142-33396-0042,ls5142,B0_unprotected,g711_mulaw_8k,0.043478260869565216,0.019230769230769232," So no tails got out to the neighbors. Besides, it was a lonely place, and by good luck, no one came that way."
+5142-33396-0042,ls5142,B6_GM_KE,direct,0.043478260869565216,0.019230769230769232," So no tails got out to the neighbors. Besides, it was a lonely place, and by good luck, no one came that way."
+5142-33396-0042,ls5142,B6_GM_KE,g711_mulaw_8k,0.17391304347826086,0.08653846153846154," So no tail's got out to the neighbor. Beside there was a lonely place, and by good luck, no one came that way."
+5142-33396-0042,ls5142,B6_GM_KE_INT8(ORT),direct,0.043478260869565216,0.019230769230769232," So no tails got out to the neighbors. Besides, it was a lonely place, and by good luck, no one came that way."
+5142-33396-0042,ls5142,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.17391304347826086,0.08653846153846154," So no tail's got out to the neighbor. Beside there was a lonely place, and by good luck, no one came that way."
+5142-36377-0002,ls5142,B0_unprotected,direct,0.0,0.0, The sound of an imperative and uncompromising bell recalled me in due time to the regions of reality.
+5142-36377-0002,ls5142,B0_unprotected,g711_mulaw_8k,0.0,0.0, The sound of an imperative and uncompromising bell recalled me in due time to the regions of reality.
+5142-36377-0002,ls5142,B6_GM_KE,direct,0.0,0.0, The sound of an imperative and uncompromising bell recalled me in due time to the regions of reality.
+5142-36377-0002,ls5142,B6_GM_KE,g711_mulaw_8k,0.0,0.0, The sound of an imperative and uncompromising bell recalled me in due time to the regions of reality.
+5142-36377-0002,ls5142,B6_GM_KE_INT8(ORT),direct,0.0,0.0, The sound of an imperative and uncompromising bell recalled me in due time to the regions of reality.
+5142-36377-0002,ls5142,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, The sound of an imperative and uncompromising bell recalled me in due time to the regions of reality.
+5639-40744-0014,ls5639,B0_unprotected,direct,0.0,0.0, Among other things on which she cast her eyes was a small crucifix of solid silver standing on a cabinet near the window.
+5639-40744-0014,ls5639,B0_unprotected,g711_mulaw_8k,0.043478260869565216,0.025, among other things on which she cast her eyes with a small crucifix of solid silver standing on a cabinet near the window.
+5639-40744-0014,ls5639,B6_GM_KE,direct,0.0,0.0," Among other things on which she cast her eyes was a small crucifix of solid silver, standing on a cabinet near the window."
+5639-40744-0014,ls5639,B6_GM_KE,g711_mulaw_8k,0.043478260869565216,0.025, among other things on which she cast her eyes with a small crucifix of solid silver standing on a cabinet near the window.
+5639-40744-0014,ls5639,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Among other things on which she cast her eyes was a small crucifix of solid silver, standing on a cabinet near the window."
+5639-40744-0014,ls5639,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.043478260869565216,0.025, among other things on which she cast her eyes with a small crucifix of solid silver standing on a cabinet near the window.
+5639-40744-0017,ls5639,B0_unprotected,direct,0.1111111111111111,0.043010752688172046, Choking with emotion on Leocadia made a sign to her parents that she wished to be alone with them.
+5639-40744-0017,ls5639,B0_unprotected,g711_mulaw_8k,0.16666666666666666,0.08602150537634409," choking with emotion of the Acadia, made a sign to her parents that she wished to be alone with them."
+5639-40744-0017,ls5639,B6_GM_KE,direct,0.16666666666666666,0.08602150537634409, Choking with emotion on the Acadia made a sign to her parents that she wished to be alone with them.
+5639-40744-0017,ls5639,B6_GM_KE,g711_mulaw_8k,0.3888888888888889,0.1935483870967742," joking with the motion of the Acadia, made a sign to her parents that she wished to be alone with."
+5639-40744-0017,ls5639,B6_GM_KE_INT8(ORT),direct,0.16666666666666666,0.08602150537634409, Choking with emotion on the Acadia made a sign to her parents that she wished to be alone with them.
+5639-40744-0017,ls5639,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.3888888888888889,0.1935483870967742," joking with the motion of the Acadia, made a sign to her parents that she wished to be alone with."
+5683-32866-0028,ls5683,B0_unprotected,direct,0.09090909090909091,0.03125," the somber old trees, like gigantic hearse plumes, black and awful."
+5683-32866-0028,ls5683,B0_unprotected,g711_mulaw_8k,0.09090909090909091,0.03125," the somber old trees, like gigantic hearse plumes, black and awful."
+5683-32866-0028,ls5683,B6_GM_KE,direct,0.18181818181818182,0.078125," with somber old trees, like gigantic hearse plumes, black and awful."
+5683-32866-0028,ls5683,B6_GM_KE,g711_mulaw_8k,0.18181818181818182,0.046875," the somber old trees, like gigantic hearse plume, black and awful."
+5683-32866-0028,ls5683,B6_GM_KE_INT8(ORT),direct,0.18181818181818182,0.078125," with somber old trees, like gigantic hearse plumes, black and awful."
+5683-32866-0028,ls5683,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.18181818181818182,0.046875," the somber old trees, like gigantic hearse plume, black and awful."
+5683-32879-0014,ls5683,B0_unprotected,direct,0.0,0.0," Yes, something EVERYTHING said Rachel, hurriedly looking frowningly at a flower which she was twirling in her fingers."
+5683-32879-0014,ls5683,B0_unprotected,g711_mulaw_8k,0.0,0.0," Yes, something EVERYTHING said Rachel, hurriedly looking frowningly at a flower which she was twirling in her fingers."
+5683-32879-0014,ls5683,B6_GM_KE,direct,0.0,0.0," Yes, something EVERYTHING said Rachel, hurriedly looking frowningly at a flower which she was twirling in her fingers."
+5683-32879-0014,ls5683,B6_GM_KE,g711_mulaw_8k,0.0,0.0," Yes, something EVERYTHING said Rachel, hurriedly looking frowningly at a flower which she was twirling in her fingers."
+5683-32879-0014,ls5683,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Yes, something EVERYTHING said Rachel, hurriedly looking frowningly at a flower which she was twirling in her fingers."
+5683-32879-0014,ls5683,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," Yes, something EVERYTHING said Rachel, hurriedly looking frowningly at a flower which she was twirling in her fingers."
+61-70970-0000,ls61,B0_unprotected,direct,0.045454545454545456,0.01694915254237288," Young Fitzsuth had been commanded to his mother's chamber, so soon as he had come out from his converse with the squire."
+61-70970-0000,ls61,B0_unprotected,g711_mulaw_8k,0.09090909090909091,0.05084745762711865, Young Fitzhuth had been commanded to his mother's chamber so soon as he had come out from his conference with the squire.
+61-70970-0000,ls61,B6_GM_KE,direct,0.045454545454545456,0.01694915254237288," Young Fitzsuth had been commanded to his mother's chamber, so soon as he had come out from his converse with the squire."
+61-70970-0000,ls61,B6_GM_KE,g711_mulaw_8k,0.09090909090909091,0.05084745762711865," Young Fitzhuth had been commanded to his mother's chamber, so soon as he had come out from his conference with the squire."
+61-70970-0000,ls61,B6_GM_KE_INT8(ORT),direct,0.045454545454545456,0.01694915254237288," Young Fitzsuth had been commanded to his mother's chamber, so soon as he had come out from his converse with the squire."
+61-70970-0000,ls61,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.09090909090909091,0.05084745762711865," Young Fitzhuth had been commanded to his mother's chamber, so soon as he had come out from his conference with the squire."
+61-70970-0001,ls61,B0_unprotected,direct,0.17647058823529413,0.027777777777777776," There be fell an anxious interview, Mistress Fitzhuth arguing for and against the Squire's project in a breath."
+61-70970-0001,ls61,B0_unprotected,g711_mulaw_8k,0.35294117647058826,0.1388888888888889, There be fell an anxious interview. Mr. Stitzsooth arguing for and against this choir's project in a breath.
+61-70970-0001,ls61,B6_GM_KE,direct,0.17647058823529413,0.018518518518518517," There be fell an anxious interview, Mistress Fizzooth arguing for and against the Squire's project in a breath."
+61-70970-0001,ls61,B6_GM_KE,g711_mulaw_8k,0.35294117647058826,0.14814814814814814, There be fell an anxious interview. Mr. Stitzhuth arguing for and against this choir's project in a breath.
+61-70970-0001,ls61,B6_GM_KE_INT8(ORT),direct,0.17647058823529413,0.018518518518518517," There be fell an anxious interview, Mistress Fizzooth arguing for and against the Squire's project in a breath."
+61-70970-0001,ls61,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.35294117647058826,0.14814814814814814, There be fell an anxious interview. Mr. Stitzhuth arguing for and against this choir's project in a breath.
+672-122797-0050,ls672,B0_unprotected,direct,0.0,0.0, They snuffed about the fir tree and rustled among the branches.
+672-122797-0050,ls672,B0_unprotected,g711_mulaw_8k,0.18181818181818182,0.0967741935483871, they snuffed about the vergery and rustled among the branches.
+672-122797-0050,ls672,B6_GM_KE,direct,0.0,0.0, They snuffed about the fir tree and rustled among the branches.
+672-122797-0050,ls672,B6_GM_KE,g711_mulaw_8k,0.18181818181818182,0.0967741935483871, They snuffed about the vergery and rustled among the branches.
+672-122797-0050,ls672,B6_GM_KE_INT8(ORT),direct,0.0,0.0, They snuffed about the fir tree and rustled among the branches.
+672-122797-0050,ls672,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.18181818181818182,0.0967741935483871, They snuffed about the vergery and rustled among the branches.
+672-122797-0063,ls672,B0_unprotected,direct,0.2,0.021739130434782608," Then goodbye, said the rats, and they went home."
+672-122797-0063,ls672,B0_unprotected,g711_mulaw_8k,0.3,0.10869565217391304," Then goodbye to the rats, and they went home."
+672-122797-0063,ls672,B6_GM_KE,direct,0.2,0.021739130434782608," Then goodbye, said the rats, and they went home."
+672-122797-0063,ls672,B6_GM_KE,g711_mulaw_8k,0.3,0.10869565217391304," Then goodbye to the rats, and they went home."
+672-122797-0063,ls672,B6_GM_KE_INT8(ORT),direct,0.2,0.021739130434782608," Then goodbye, said the rats, and they went home."
+672-122797-0063,ls672,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.3,0.10869565217391304," Then goodbye to the rats, and they went home."
+6829-68769-0006,ls6829,B0_unprotected,direct,0.0,0.0," If the prosecution were withdrawn and the case settled with the victim of the forged check, then the young man would be allowed his freedom."
+6829-68769-0006,ls6829,B0_unprotected,g711_mulaw_8k,0.0,0.0," If the prosecution were withdrawn and the case settled with the victim of the forged check, then the young man would be allowed his freedom."
+6829-68769-0006,ls6829,B6_GM_KE,direct,0.0,0.0," If the prosecution were withdrawn and the case settled with the victim of the forged check, then the young man would be allowed his freedom."
+6829-68769-0006,ls6829,B6_GM_KE,g711_mulaw_8k,0.0,0.0," If the prosecution were withdrawn and the case settled with the victim of the forged check, then the young man would be allowed his freedom."
+6829-68769-0006,ls6829,B6_GM_KE_INT8(ORT),direct,0.0,0.0," If the prosecution were withdrawn and the case settled with the victim of the forged check, then the young man would be allowed his freedom."
+6829-68769-0006,ls6829,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," If the prosecution were withdrawn and the case settled with the victim of the forged check, then the young man would be allowed his freedom."
+6829-68771-0006,ls6829,B0_unprotected,direct,0.0,0.0, And this was why Kenneth and Beth discovered him conversing with the young woman in the buggy.
+6829-68771-0006,ls6829,B0_unprotected,g711_mulaw_8k,0.0,0.0, And this was why Kenneth and Beth discovered him conversing with the young woman in the buggy.
+6829-68771-0006,ls6829,B6_GM_KE,direct,0.0,0.0, And this was why Kenneth and Beth discovered him conversing with the young woman in the buggy.
+6829-68771-0006,ls6829,B6_GM_KE,g711_mulaw_8k,0.0,0.0, And this was why Kenneth and Beth discovered him conversing with the young woman in the buggy.
+6829-68771-0006,ls6829,B6_GM_KE_INT8(ORT),direct,0.0,0.0, And this was why Kenneth and Beth discovered him conversing with the young woman in the buggy.
+6829-68771-0006,ls6829,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, And this was why Kenneth and Beth discovered him conversing with the young woman in the buggy.
+6930-76324-0023,ls6930,B0_unprotected,direct,0.13333333333333333,0.02702702702702703, and my pocket money is getting low again and you have it any left as usual.
+6930-76324-0023,ls6930,B0_unprotected,g711_mulaw_8k,0.13333333333333333,0.02702702702702703, and my pocket money is getting low again and you have it any left as usual.
+6930-76324-0023,ls6930,B6_GM_KE,direct,0.13333333333333333,0.02702702702702703, and my pocket money is getting low again and you have it any left as usual.
+6930-76324-0023,ls6930,B6_GM_KE,g711_mulaw_8k,0.06666666666666667,0.04054054054054054, and my pocket money is getting low again and you have any left as usual.
+6930-76324-0023,ls6930,B6_GM_KE_INT8(ORT),direct,0.13333333333333333,0.02702702702702703, and my pocket money is getting low again and you have it any left as usual.
+6930-76324-0023,ls6930,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.06666666666666667,0.04054054054054054, and my pocket money is getting low again and you have any left as usual.
+6930-76324-0025,ls6930,B0_unprotected,direct,0.0,0.0," Why, it's Goliath. As usual, they both cried, peering in."
+6930-76324-0025,ls6930,B0_unprotected,g711_mulaw_8k,0.0,0.0, Why it's Goliath as usual they both cried peering in
+6930-76324-0025,ls6930,B6_GM_KE,direct,0.0,0.0, Why it's Goliath as usual they both cried peering in
+6930-76324-0025,ls6930,B6_GM_KE,g711_mulaw_8k,0.1,0.07692307692307693, Why it's Goliath that's usual they both cried peering in
+6930-76324-0025,ls6930,B6_GM_KE_INT8(ORT),direct,0.0,0.0, Why it's Goliath as usual they both cried peering in
+6930-76324-0025,ls6930,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.2,0.09615384615384616, Why it's Goliath that's usual. They both cried peering it
+7021-85628-0002,ls7021,B0_unprotected,direct,0.125,0.014285714285714285, He was such a big boy that he wore high boots and carried a jackknife.
+7021-85628-0002,ls7021,B0_unprotected,g711_mulaw_8k,0.125,0.014285714285714285, He was such a big boy that he wore high boots and carried a jackknife.
+7021-85628-0002,ls7021,B6_GM_KE,direct,0.125,0.014285714285714285, he was such a big boy that he wore high boots and carried a jackknife.
+7021-85628-0002,ls7021,B6_GM_KE,g711_mulaw_8k,0.125,0.014285714285714285, he was such a big boy that he wore high boots and carried a jackknife.
+7021-85628-0002,ls7021,B6_GM_KE_INT8(ORT),direct,0.125,0.014285714285714285, he was such a big boy that he wore high boots and carried a jackknife.
+7021-85628-0002,ls7021,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.125,0.014285714285714285, he was such a big boy that he wore high boots and carried a jackknife.
+7021-85628-0005,ls7021,B0_unprotected,direct,0.0,0.0," Seeing that I am so fine, I may as well go and visit the king."
+7021-85628-0005,ls7021,B0_unprotected,g711_mulaw_8k,0.0,0.0," Seeing that I am so fine, I may as well go and visit the King."
+7021-85628-0005,ls7021,B6_GM_KE,direct,0.0,0.0," Seeing that I am so fine, I may as well go and visit the king."
+7021-85628-0005,ls7021,B6_GM_KE,g711_mulaw_8k,0.06666666666666667,0.06666666666666667," Seeing that I am so fine, I may as well go and visit the cave."
+7021-85628-0005,ls7021,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Seeing that I am so fine, I may as well go and visit the king."
+7021-85628-0005,ls7021,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.06666666666666667,0.06666666666666667," Seeing that I am so fine, I may as well go and visit the cave."
+7127-75946-0007,ls7127,B0_unprotected,direct,0.0,0.0," It is necessary, therefore, that he should comply. The king frowned."
+7127-75946-0007,ls7127,B0_unprotected,g711_mulaw_8k,0.09090909090909091,0.078125," It is necessary, therefore, that he should comply with the king frowned."
+7127-75946-0007,ls7127,B6_GM_KE,direct,0.0,0.0," It is necessary, therefore, that he should comply. The king frowned."
+7127-75946-0007,ls7127,B6_GM_KE,g711_mulaw_8k,0.0,0.0," It is necessary, therefore, that he should comply. The King frowned."
+7127-75946-0007,ls7127,B6_GM_KE_INT8(ORT),direct,0.0,0.0," It is necessary, therefore, that he should comply. The king frowned."
+7127-75946-0007,ls7127,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," It is necessary, therefore, that he should comply. The King frowned."
+7127-75947-0037,ls7127,B0_unprotected,direct,0.11538461538461539,0.046153846153846156," Oh, I am speaking seriously, replied Montaleil. And in my opinion, in this case, is quite as good as the kings, I suppose. Is it not, Louise?"
+7127-75947-0037,ls7127,B0_unprotected,g711_mulaw_8k,0.07692307692307693,0.023076923076923078," Oh, I am speaking seriously, replied Montaleil. And my opinion, in this case, is quite as good as the kings, I suppose. Is it not, Louise?"
+7127-75947-0037,ls7127,B6_GM_KE,direct,0.07692307692307693,0.023076923076923078," Oh, I am speaking seriously, replied Montaleil. And my opinion, in this case, is quite as good as the kings, I suppose. Is it not Louise?"
+7127-75947-0037,ls7127,B6_GM_KE,g711_mulaw_8k,0.07692307692307693,0.023076923076923078," Oh, I am speaking seriously, replied Montaleil. And my opinion, in this case, is quite as good as the kings, I suppose. Is it not, Louise?"
+7127-75947-0037,ls7127,B6_GM_KE_INT8(ORT),direct,0.07692307692307693,0.023076923076923078," Oh, I am speaking seriously, replied Montaleil. And my opinion, in this case, is quite as good as the kings, I suppose. Is it not Louise?"
+7127-75947-0037,ls7127,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.07692307692307693,0.023076923076923078," Oh, I am speaking seriously, replied Montaleil. And my opinion, in this case, is quite as good as the kings, I suppose. Is it not, Louise?"
+7176-92135-0008,ls7176,B0_unprotected,direct,0.06666666666666667,0.05263157894736842," lend me your ear for 10 minutes, and you shall learn just what stagecraft is."
+7176-92135-0008,ls7176,B0_unprotected,g711_mulaw_8k,0.06666666666666667,0.05263157894736842," lend me your ear for 10 minutes, and you shall learn just what stagecraft is."
+7176-92135-0008,ls7176,B6_GM_KE,direct,0.06666666666666667,0.05263157894736842," lend me your ear for 10 minutes, and you shall learn just what stagecraft is."
+7176-92135-0008,ls7176,B6_GM_KE,g711_mulaw_8k,0.26666666666666666,0.15789473684210525, win me a year for 10 minutes and you shall learn just what stagecraft is.
+7176-92135-0008,ls7176,B6_GM_KE_INT8(ORT),direct,0.06666666666666667,0.05263157894736842," lend me your ear for 10 minutes, and you shall learn just what stagecraft is."
+7176-92135-0008,ls7176,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.26666666666666666,0.15789473684210525, win me a year for 10 minutes and you shall learn just what stagecraft is.
+7176-92135-0016,ls7176,B0_unprotected,direct,0.0,0.0," This would be an easy way of doing it, but it would not be the best way for the reason that it is too easy to call attention to itself."
+7176-92135-0016,ls7176,B0_unprotected,g711_mulaw_8k,0.0,0.0," This would be an easy way of doing it, but it would not be the best way for the reason that it is too easy to call attention to itself."
+7176-92135-0016,ls7176,B6_GM_KE,direct,0.0,0.0," This would be an easy way of doing it, but it would not be the best way for the reason that it is too easy to call attention to itself."
+7176-92135-0016,ls7176,B6_GM_KE,g711_mulaw_8k,0.0,0.0," This would be an easy way of doing it, but it would not be the best way for the reason that it is too easy to call attention to itself."
+7176-92135-0016,ls7176,B6_GM_KE_INT8(ORT),direct,0.0,0.0," This would be an easy way of doing it, but it would not be the best way for the reason that it is too easy to call attention to itself."
+7176-92135-0016,ls7176,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," This would be an easy way of doing it, but it would not be the best way for the reason that it is too easy to call attention to itself."
+7729-102255-0025,ls7729,B0_unprotected,direct,0.1,0.0375, They're assumed character changed with their changing opportunities or necessities.
+7729-102255-0025,ls7729,B0_unprotected,g711_mulaw_8k,0.0,0.0, their assumed character changed with their changing opportunities or necessities.
+7729-102255-0025,ls7729,B6_GM_KE,direct,0.0,0.0, their assumed character changed with their changing opportunities or necessities.
+7729-102255-0025,ls7729,B6_GM_KE,g711_mulaw_8k,0.0,0.0, their assumed character changed with their changing opportunities or necessities.
+7729-102255-0025,ls7729,B6_GM_KE_INT8(ORT),direct,0.0,0.0, their assumed character changed with their changing opportunities or necessities.
+7729-102255-0025,ls7729,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, their assumed character changed with their changing opportunities or necessities.
+7729-102255-0031,ls7729,B0_unprotected,direct,0.2,0.07317073170731707, He continued his pretended surge and to give color to his errand made to arrest.
+7729-102255-0031,ls7729,B0_unprotected,g711_mulaw_8k,0.13333333333333333,0.024390243902439025, He continued his pretended search and to give color to his errand made to arrest.
+7729-102255-0031,ls7729,B6_GM_KE,direct,0.2,0.07317073170731707, He continued his pretended surge and to give color to his errand made to arrest.
+7729-102255-0031,ls7729,B6_GM_KE,g711_mulaw_8k,0.13333333333333333,0.024390243902439025, He continued his pretended search and to give color to his errand made to arrest.
+7729-102255-0031,ls7729,B6_GM_KE_INT8(ORT),direct,0.2,0.07317073170731707, He continued his pretended surge and to give color to his errand made to arrest.
+7729-102255-0031,ls7729,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.13333333333333333,0.024390243902439025, He continued his pretended search and to give color to his errand made to arrest.
+8224-274384-0000,ls8224,B0_unprotected,direct,0.058823529411764705,0.03488372093023256," He passed through Henley, St. Albans, and came so near to London as Harrow on the hill."
+8224-274384-0000,ls8224,B0_unprotected,g711_mulaw_8k,0.058823529411764705,0.03488372093023256," He passed through Henley, St. Albans, and came so near to London as Harrow on the hill."
+8224-274384-0000,ls8224,B6_GM_KE,direct,0.058823529411764705,0.03488372093023256," He passed through Henley, St Albans and came so near to London as Harrow on the hill."
+8224-274384-0000,ls8224,B6_GM_KE,g711_mulaw_8k,0.058823529411764705,0.03488372093023256," He passed through Henley, St Albans, and came so near to London as Harrow on the hill."
+8224-274384-0000,ls8224,B6_GM_KE_INT8(ORT),direct,0.058823529411764705,0.03488372093023256," He passed through Henley, St Albans and came so near to London as Harrow on the hill."
+8224-274384-0000,ls8224,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.058823529411764705,0.03488372093023256," He passed through Henley, St Albans, and came so near to London as Harrow on the hill."
+8224-274384-0009,ls8224,B0_unprotected,direct,0.0,0.0, The Parliament and the Scots laid their proposals before the king.
+8224-274384-0009,ls8224,B0_unprotected,g711_mulaw_8k,0.0,0.0, The Parliament and the Scots laid their proposals before the king.
+8224-274384-0009,ls8224,B6_GM_KE,direct,0.0,0.0, The Parliament and the Scots laid their proposals before the king.
+8224-274384-0009,ls8224,B6_GM_KE,g711_mulaw_8k,0.0,0.0, the Parliament and the Scots laid their proposals before the king.
+8224-274384-0009,ls8224,B6_GM_KE_INT8(ORT),direct,0.0,0.0, The Parliament and the Scots laid their proposals before the king.
+8224-274384-0009,ls8224,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, the Parliament and the Scots laid their proposals before the king.
+8230-279154-0005,ls8230,B0_unprotected,direct,0.13043478260869565,0.02727272727272727, All that I'm doing is to use its logical tunability as a help in the analysis of what occurs when we remember.
+8230-279154-0005,ls8230,B0_unprotected,g711_mulaw_8k,0.08695652173913043,0.01818181818181818, all that I'm doing is to use its logical tenability as a help in the analysis of what occurs when we remember.
+8230-279154-0005,ls8230,B6_GM_KE,direct,0.0,0.0, All that I am doing is to use its logical tenability as a help in the analysis of what occurs when we remember.
+8230-279154-0005,ls8230,B6_GM_KE,g711_mulaw_8k,0.08695652173913043,0.01818181818181818, all that I'm doing is to use its logical tenability as a help in the analysis of what occurs when we remember.
+8230-279154-0005,ls8230,B6_GM_KE_INT8(ORT),direct,0.0,0.0, All that I am doing is to use its logical tenability as a help in the analysis of what occurs when we remember.
+8230-279154-0005,ls8230,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.08695652173913043,0.01818181818181818, all that I'm doing is to use its logical tenability as a help in the analysis of what occurs when we remember.
+8230-279154-0016,ls8230,B0_unprotected,direct,0.0,0.0," In actual fact, there are doubtless various factors that concur in giving us the feeling of greater or less remoteness in some remembered event."
+8230-279154-0016,ls8230,B0_unprotected,g711_mulaw_8k,0.08333333333333333,0.028169014084507043," In actual fact, there are doubtless various factors that can occur in giving us the feeling of greater or less remoteness in some remembered event."
+8230-279154-0016,ls8230,B6_GM_KE,direct,0.08333333333333333,0.028169014084507043," In actual fact, there are doubtless various factors that can occur in giving us the feeling of greater or less remoteness in some remembered event."
+8230-279154-0016,ls8230,B6_GM_KE,g711_mulaw_8k,0.08333333333333333,0.028169014084507043," In actual fact, there are doubtless various factors that can occur in giving us the feeling of greater or less remoteness in some remembered event."
+8230-279154-0016,ls8230,B6_GM_KE_INT8(ORT),direct,0.08333333333333333,0.028169014084507043," In actual fact, there are doubtless various factors that can occur in giving us the feeling of greater or less remoteness in some remembered event."
+8230-279154-0016,ls8230,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.08333333333333333,0.028169014084507043," In actual fact, there are doubtless various factors that can occur in giving us the feeling of greater or less remoteness in some remembered event."
+8455-210777-0024,ls8455,B0_unprotected,direct,0.05263157894736842,0.020833333333333332, How much of evil? A real accomplished evil had there not occurred to me during the last few days.
+8455-210777-0024,ls8455,B0_unprotected,g711_mulaw_8k,0.05263157894736842,0.020833333333333332," How much of evil, a real accomplished evil, had there not occurred to me during the last few days?"
+8455-210777-0024,ls8455,B6_GM_KE,direct,0.05263157894736842,0.020833333333333332, How much of evil? A real accomplished evil had there not occurred to me during the last few days.
+8455-210777-0024,ls8455,B6_GM_KE,g711_mulaw_8k,0.05263157894736842,0.020833333333333332," How much of evil, a real accomplished evil, had there not occurred to me during the last few days?"
+8455-210777-0024,ls8455,B6_GM_KE_INT8(ORT),direct,0.05263157894736842,0.020833333333333332, How much of evil? A real accomplished evil had there not occurred to me during the last few days.
+8455-210777-0024,ls8455,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.05263157894736842,0.020833333333333332," How much of evil, a real accomplished evil, had there not occurred to me during the last few days?"
+8455-210777-0041,ls8455,B0_unprotected,direct,0.0,0.0," There came upon me a sudden shock when I heard these words, which exceeded anything which I had yet felt."
+8455-210777-0041,ls8455,B0_unprotected,g711_mulaw_8k,0.0,0.0," There came upon me a sudden shock when I heard these words, which exceeded anything which I had yet felt."
+8455-210777-0041,ls8455,B6_GM_KE,direct,0.0,0.0," There came upon me a sudden shock when I heard these words, which exceeded anything which I had yet felt."
+8455-210777-0041,ls8455,B6_GM_KE,g711_mulaw_8k,0.0,0.0," There came upon me a sudden shock when I heard these words, which exceeded anything which I had yet felt."
+8455-210777-0041,ls8455,B6_GM_KE_INT8(ORT),direct,0.0,0.0," There came upon me a sudden shock when I heard these words, which exceeded anything which I had yet felt."
+8455-210777-0041,ls8455,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," There came upon me a sudden shock when I heard these words, which exceeded anything which I had yet felt."
+8463-294825-0012,ls8463,B0_unprotected,direct,0.0,0.0, The Nautilus nearly perishes in the Antarctic and Nemo sinks into a growing depression.
+8463-294825-0012,ls8463,B0_unprotected,g711_mulaw_8k,0.0,0.0, the Nautilus nearly perishes in the Antarctic and Nemo sinks into a growing depression.
+8463-294825-0012,ls8463,B6_GM_KE,direct,0.0,0.0, The Nautilus nearly perishes in the Antarctic and Nemo sinks into a growing depression.
+8463-294825-0012,ls8463,B6_GM_KE,g711_mulaw_8k,0.0,0.0, The Nautilus nearly perishes in the Antarctic and Nemo sinks into a growing depression.
+8463-294825-0012,ls8463,B6_GM_KE_INT8(ORT),direct,0.0,0.0, The Nautilus nearly perishes in the Antarctic and Nemo sinks into a growing depression.
+8463-294825-0012,ls8463,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, The Nautilus nearly perishes in the Antarctic and Nemo sinks into a growing depression.
+8463-294828-0019,ls8463,B0_unprotected,direct,0.0,0.0," Anyhow, we'll leave instructions to ship the whole menagerie to France."
+8463-294828-0019,ls8463,B0_unprotected,g711_mulaw_8k,0.0,0.0," Anyhow, we'll leave instructions to ship the whole menagerie to France."
+8463-294828-0019,ls8463,B6_GM_KE,direct,0.0,0.0," Anyhow, we'll leave instructions to ship the whole menagerie to France."
+8463-294828-0019,ls8463,B6_GM_KE,g711_mulaw_8k,0.0,0.0," Anyhow, we'll leave instructions to ship the whole menagerie to France."
+8463-294828-0019,ls8463,B6_GM_KE_INT8(ORT),direct,0.0,0.0," Anyhow, we'll leave instructions to ship the whole menagerie to France."
+8463-294828-0019,ls8463,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0," Anyhow, we'll leave instructions to ship the whole menagerie to France."
+8555-284447-0002,ls8555,B0_unprotected,direct,0.2608695652173913,0.088," I wouldn't mind a cup of coffee myself, said Campbell. I've had considerable exercise this morning, and I'm all ready for breakfast."
+8555-284447-0002,ls8555,B0_unprotected,g711_mulaw_8k,0.30434782608695654,0.12," I wouldn't mind a cup of coffee myself, so can do. I've had considerable exercise this morning, and I'm all ready for breakfast."
+8555-284447-0002,ls8555,B6_GM_KE,direct,0.2608695652173913,0.112," I wouldn't mind a cup of coffee myself, said Kenboo. I've had considerable exercise this morning, and I'm all ready for breakfast."
+8555-284447-0002,ls8555,B6_GM_KE,g711_mulaw_8k,0.34782608695652173,0.128," I wouldn't mind a cup of coffee myself, if it can do. I've had considerable exercise this morning, and I'm all ready for breakfast."
+8555-284447-0002,ls8555,B6_GM_KE_INT8(ORT),direct,0.2608695652173913,0.112," I wouldn't mind a cup of coffee myself, said Kenboo. I've had considerable exercise this morning, and I'm all ready for breakfast."
+8555-284447-0002,ls8555,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.34782608695652173,0.128," I wouldn't mind a cup of coffee myself, if it can do. I've had considerable exercise this morning, and I'm all ready for breakfast."
+8555-284449-0018,ls8555,B0_unprotected,direct,0.14285714285714285,0.08849557522123894," So, Gipgis' will order the captain to take a file of soldiers and escort the raving beauties to their new home."
+8555-284449-0018,ls8555,B0_unprotected,g711_mulaw_8k,0.19047619047619047,0.12389380530973451," So, gift kisses will order the captain to take a file of soldiers and escort the raving beauties to their new home."
+8555-284449-0018,ls8555,B6_GM_KE,direct,0.14285714285714285,0.08849557522123894," So, Gipgis' will order the captain to take a file of soldiers and escort the raving beauties to their new home."
+8555-284449-0018,ls8555,B6_GM_KE,g711_mulaw_8k,0.19047619047619047,0.12389380530973451," So, gift kisses will order the captain to take a file of soldiers and escort the raving beauties to their new home."
+8555-284449-0018,ls8555,B6_GM_KE_INT8(ORT),direct,0.14285714285714285,0.08849557522123894," So, Gipgis' will order the captain to take a file of soldiers and escort the raving beauties to their new home."
+8555-284449-0018,ls8555,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.19047619047619047,0.12389380530973451," So, gift kisses will order the captain to take a file of soldiers and escort the raving beauties to their new home."
+908-157963-0010,ls908,B0_unprotected,direct,0.15384615384615385,0.031746031746031744," She ceased and smiled in tears, then sat down in her silver shrine."
+908-157963-0010,ls908,B0_unprotected,g711_mulaw_8k,0.15384615384615385,0.031746031746031744," She ceased and smiled in tears, then sat down in her silver shrine."
+908-157963-0010,ls908,B6_GM_KE,direct,0.15384615384615385,0.031746031746031744," She ceased and smiled in tears, then sat down in her silver shrine."
+908-157963-0010,ls908,B6_GM_KE,g711_mulaw_8k,0.15384615384615385,0.031746031746031744," She ceased and smiled in tears, then sat down in her silver shrine."
+908-157963-0010,ls908,B6_GM_KE_INT8(ORT),direct,0.15384615384615385,0.031746031746031744," She ceased and smiled in tears, then sat down in her silver shrine."
+908-157963-0010,ls908,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.15384615384615385,0.031746031746031744," She ceased and smiled in tears, then sat down in her silver shrine."
+908-31957-0023,ls908,B0_unprotected,direct,0.0,0.0, I love thee freely as men strive for right. I love thee purely as they turn from praise.
+908-31957-0023,ls908,B0_unprotected,g711_mulaw_8k,0.0,0.0, I love thee freely as men strive for right. I love thee purely as they turn from praise.
+908-31957-0023,ls908,B6_GM_KE,direct,0.0,0.0, I love thee freely as men strive for right. I love thee purely as they turn from praise.
+908-31957-0023,ls908,B6_GM_KE,g711_mulaw_8k,0.0,0.0, I love thee freely as men strive for right. I love thee purely as they turn from praise.
+908-31957-0023,ls908,B6_GM_KE_INT8(ORT),direct,0.0,0.0, I love thee freely as men strive for right. I love thee purely as they turn from praise.
+908-31957-0023,ls908,B6_GM_KE_INT8(ORT),g711_mulaw_8k,0.0,0.0, I love thee freely as men strive for right. I love thee purely as they turn from praise.

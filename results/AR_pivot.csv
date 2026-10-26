@@ -1,0 +1,13 @@
+verifier,,ECAPA(seen),ECAPA(seen),ECAPA(seen),ECAPA(seen),ECAPA(seen),ECAPA(seen),ECAPA(seen),Resemblyzer(held-out),Resemblyzer(held-out),Resemblyzer(held-out),Resemblyzer(held-out),Resemblyzer(held-out),Resemblyzer(held-out),Resemblyzer(held-out),WavLM-SV(held-out),WavLM-SV(held-out),WavLM-SV(held-out),WavLM-SV(held-out),WavLM-SV(held-out),WavLM-SV(held-out),WavLM-SV(held-out)
+protection,,B0_unprotected,B1_gaussian,B4_teacher_PGD-EOT,B5_GM_generic,B6_GM_KE,B6_GM_KE_INT8(ORT),GS_KE(0ms),B0_unprotected,B1_gaussian,B4_teacher_PGD-EOT,B5_GM_generic,B6_GM_KE,B6_GM_KE_INT8(ORT),GS_KE(0ms),B0_unprotected,B1_gaussian,B4_teacher_PGD-EOT,B5_GM_generic,B6_GM_KE,B6_GM_KE_INT8(ORT),GS_KE(0ms)
+condition,channel,,,,,,,,,,,,,,,,,,,,,
+E1 seen channel,seen_T_KE_sample,0.6,0.5,0.0,0.47,0.37,0.37,0.57,0.13,0.07,0.0,0.0,0.03,0.03,0.1,0.5,0.53,0.53,0.53,0.47,0.53,0.53
+E1/E3 direct,none,1.0,0.97,0.0,0.8,0.7,0.7,1.0,1.0,0.63,0.0,0.13,0.17,0.17,0.97,0.93,0.93,0.6,0.93,0.93,0.93,0.93
+E3 held-out codec,chain_opus12k_g711,0.17,0.1,0.0,0.1,0.13,0.1,0.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.73,0.53,0.13,0.53,0.63,0.53,0.73
+E3 held-out codec,g711_mulaw_8k,0.2,0.17,0.0,0.13,0.2,0.2,0.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.83,0.6,0.27,0.47,0.67,0.67,0.83
+E3 held-out codec,opus_48k,1.0,0.97,0.0,0.87,0.73,0.73,1.0,0.83,0.67,0.07,0.13,0.2,0.2,0.83,0.97,0.9,0.67,0.9,0.93,0.93,0.93
+E3 held-out codec,opus_6k,0.57,0.43,0.0,0.3,0.37,0.4,0.57,0.33,0.07,0.0,0.0,0.0,0.0,0.33,0.83,0.6,0.07,0.6,0.67,0.7,0.83
+E4 generic removal,bandpass_mp3_64k,0.97,0.93,0.0,0.87,0.77,0.77,0.97,0.7,0.23,0.0,0.1,0.03,0.03,0.7,0.97,0.9,0.67,0.9,0.9,0.9,0.97
+E4 generic removal,lowpass_resample_11k,0.97,0.9,0.0,0.63,0.9,0.9,0.97,0.5,0.33,0.0,0.0,0.1,0.1,0.5,0.93,0.9,0.73,0.93,0.93,0.93,0.93
+E4 generic removal,spectral_gate_denoise,1.0,0.97,0.0,1.0,0.83,0.83,1.0,0.97,0.9,0.13,0.93,0.43,0.43,0.97,0.97,0.93,0.73,0.97,0.93,0.93,0.97
+E6-sim chained,E6sim_rerecord_opus_g711,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.03,0.07,0.0,0.07,0.0,0.03

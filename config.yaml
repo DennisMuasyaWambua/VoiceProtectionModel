@@ -1,0 +1,35 @@
+# Central configuration (scaled-down CPU prototype of Chapter 3 methodology)
+paths:
+  raw: data/raw
+  clean: data/clean
+  manifests: data/manifests
+  models: models
+  plots: plots
+  results: results
+audio:
+  sr: 16000
+  target_lufs: -26.0       # §3.3.5
+  trim_top_db: 30          # energy-based VAD trim
+  min_dur: 2.0
+  max_dur: 20.0
+  clip_frac_max: 0.001
+splits:                     # speaker-disjoint (§3.3.5)
+  librispeech_train_from: dev-clean   # scaled down from train-clean-100
+  n_train_speakers: 30
+  n_val_speakers: 10
+  test_from: test-clean
+generator:
+  hop: 160                  # 10 ms blocks
+  win: 320                  # 20 ms window ending at current block (no look-ahead from windowing)
+  n_mels: 40
+  eps: 0.008                # L_inf budget on waveform after -26 LUFS (-42 dBFS)
+train:
+  crop_s: 2.0
+  batch: 8
+  lr: 3.0e-4
+  steps: 800
+  lambda_perc: 1.0
+  gamma_mask: 1.0
+  eot_M: 1
+  grad_clip: 1.0
+  seed: 0

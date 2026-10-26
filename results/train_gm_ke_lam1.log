@@ -1,0 +1,5 @@
+{"step": 50, "stage": 0, "loss": 1.3985, "cos_train": 0.7745, "perc": 0.624, "snr": 41.3119, "sec": 114.1008, "val_cos": 0.9882, "val_cos_nb": 0.9789, "val_perc": 0.7369, "val_obj": 1.725, "val_snr": 41.1993}
+{"step": 100, "stage": 0, "loss": 1.4203, "cos_train": 0.842, "perc": 0.5783, "snr": 46.0533, "sec": 236.6089, "val_cos": 0.9954, "val_cos_nb": 0.9852, "val_perc": 0.4813, "val_obj": 1.4766, "val_snr": 46.0218}
+{"step": 150, "stage": 1, "loss": 1.1127, "cos_train": 0.7976, "perc": 0.3151, "snr": 47.8269, "sec": 374.4735, "val_cos": 0.9972, "val_cos_nb": 0.9878, "val_perc": 0.3858, "val_obj": 1.383, "val_snr": 48.3343}
+{"step": 200, "stage": 1, "loss": 1.1793, "cos_train": 0.6199, "perc": 0.5593, "snr": 49.8913, "sec": 526.1384, "val_cos": 0.9982, "val_cos_nb": 0.9876, "val_perc": 0.3332, "val_obj": 1.3314, "val_snr": 49.4811}
+{"step": 250, "stage": 1, "loss": 1.1365, "cos_train": 0.7344, "perc": 0.4022, "snr": 49.1888, "sec": 675.4461, "val_cos": 0.9985, "val_cos_nb": 0.9886, "val_perc": 0.298, "val_obj": 1.2965, "val_snr": 50.476}

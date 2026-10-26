@@ -1,0 +1,20 @@
+{
+ "variant": "GM",
+ "tdist": "ke",
+ "steps": 800,
+ "out": "models/gm_ke_lam1",
+ "threads": 4,
+ "lam": 1.0,
+ "eps": 0.008,
+ "seed": 0,
+ "gen_cfg": {
+  "C": 96,
+  "stacks": 3,
+  "blocks": 6,
+  "gru": true,
+  "lookahead": 1,
+  "eps": 0.008
+ },
+ "params": 286144,
+ "macs_per_s": 29578400
+}

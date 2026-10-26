@@ -1,0 +1,7 @@
+model,path,size_kb,max_abs_err_vs_torch,rel_l2_err,within_1e3_tol
+fp32,models/onnx/gm_ke/step_fp32.onnx,1844.650390625,5.587935447692871e-09,1.8196941198311833e-07,True
+fp32_ort_optimized,models/onnx/gm_ke/step_fp32_ortopt.onnx,1833.703125,5.587935447692871e-09,1.8196941198311833e-07,True
+int8_dynamic_naive(all ops),models/onnx/gm_ke/step_int8_dynamic_naive.onnx,737.3798828125,0.012722235172986984,0.25667303800582886,False
+int8_dynamic,models/onnx/gm_ke/step_int8_dynamic.onnx,1248.9775390625,0.0004433698486536741,0.008183883503079414,True
+int8_static_qdq,models/onnx/gm_ke/step_int8_static_qdq.onnx,1451.44921875,0.0006979799945838749,0.01251552626490593,True
+offline_fp32 (full-utterance graph),models/onnx/gm_ke/offline_fp32.onnx,1863.525390625,4.773028194904327e-09,1.9113916494006844e-07,True

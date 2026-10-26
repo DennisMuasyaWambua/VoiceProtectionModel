@@ -1,0 +1,51 @@
+raw files: 6021
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+/workspace/venv/lib/python3.13/site-packages/pyloudnorm/normalize.py:62: UserWarning: Possible clipped samples in output.
+  warnings.warn("Possible clipped samples in output.")
+                         n  spk     hours
+corpus       split                       
+fleurs_sw_ke sw_dev    211    1  0.756183
+             sw_test   485    1  1.822026
+librispeech  test     2427   40  4.822566
+             train    1875   30  3.533126
+             val       602   10  1.192446
+status
+ok           5600
+too_short     418
+clipping        3
+Name: count, dtype: int64
